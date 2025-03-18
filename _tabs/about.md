@@ -1,14 +1,14 @@
 ---
 title: "Haqida"
 icon: fas fa-user
-order: 2
+order: 1
 ---
 
-## Mening blogim
+# Mening Blogim
 
-21 IT maktabida o‘qishim davomida blog yuritaman. Bu yerda o‘zimning tajribalarim, loyihalarim va o‘rganayotgan narsalarim haqida yozib boraman.
+Bu blogda 21 IT maktabida o‘qishim davomida o‘rganayotgan narsalarimni yozib boraman.
 
-### Bog‘lanish
+## Bog‘lanish
 
-- 📧 Email: example@example.com
-- 🔗 GitHub: [Mening GitHub sahifam](https://github.com/foydalanuvchi)
+📧 Email: example@example.com  
+🔗 GitHub: [Mening GitHub sahifam](https://github.com/mrkakharov)
