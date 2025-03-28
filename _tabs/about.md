@@ -15,8 +15,8 @@ Salom! Mening ismim Jakhongir Kakharov. Men web dasturchiman va ushbu blogda o'z
 
 ### Ma'lumotlarim
 
-- **Ism:** Jakhongir Kakharov
-- **Kasb:** Web dasturchi
+- **Ism Familiya:** Jakhongir Kakharov
+- **Kasb:** 1C va Web dasturchi
 - **Email:** devjk@tuta.io
 
 ### Qiziqishlarim
