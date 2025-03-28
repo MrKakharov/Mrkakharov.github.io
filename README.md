@@ -35,6 +35,6 @@ Ushbu ish [MIT][mit] litsenziyasi ostida nashr etilgan.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[webpage]: https://mrkakharov.github.io/
+[webpage]: https://MrKakharov.github.io/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
