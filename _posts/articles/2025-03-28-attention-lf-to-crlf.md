@@ -1,7 +1,7 @@
 ---
-title: Git: "This diff contains a change in line endings from 'LF' to 'CRLF'" muammosi
+title: Git This diff contains a change in line endings from LF to CRLF muammosi
 authors: [cotes, MrKakharov]
-date: 2025-03-26 02:04:00 +0500
+date: 2025-03-28 02:04:00 +0500
 categories: [Chirpy, O'rganish]
 tags: [Chirpy, Github]
 pin: true
