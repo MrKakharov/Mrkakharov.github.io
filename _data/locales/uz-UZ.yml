@@ -44,6 +44,8 @@ meta: :PLATFORM uchun :THEME mavzusidan foydalanildi.
 not_found:
   statement: Kechirasiz, biz URL manzilini adashtirdingiz yoki u mavjud bo'lmagan narsaga ishora qilmoqda.
 
+# ----- Bildirishnomalar -----
+
 notification:
   update_found: Yangi kontent versiyasi mavjud.
   update: Yangilash
