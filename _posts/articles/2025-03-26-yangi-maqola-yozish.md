@@ -248,7 +248,9 @@ image:
 ---
 ```
 
-> Siz LQIP ni \"[Matn va Tipografiya](../posts/articles/2025-03-26-mant-va-tipografiya/)\" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
+> You can observe LQIP in the preview image of post \"[Text and Typography](../2025-03-26-mant-va-tipografiya/)\".
+
+> Siz LQIP ni \"[Matn va Tipografiya](2025-03-26-mant-va-tipografiya.md/)\" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
 
 Oddiy rasmlar uchun:
 
