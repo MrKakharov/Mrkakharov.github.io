@@ -1,10 +1,9 @@
 ---
-title: Yangi Maqola Yozish
-authors: [cotes, MrKakharov]
+title: Yangi maqola Yozish
+author: MrKakharov
 date: 2025-03-26 02:04:00 +0500
 categories: [Chirpy, O'rganish]
-tags: [Chirpy]
-pin: true
+tags: [Chirpyda yozish]
 render_with_liquid: false
 ---
 
@@ -248,7 +247,7 @@ image:
 ---
 ```
 
-Siz LQIP ni "[Matn va Tipografiya](./mant-va-tipografiya/)" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
+Siz LQIP ni "[Matn va tipografiya](../mant-va-tipografiya/)" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
 
 Oddiy rasmlar uchun:
 
