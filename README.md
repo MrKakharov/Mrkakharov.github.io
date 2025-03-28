@@ -3,6 +3,7 @@
 [**Mening web sahifam**][webpage]
 
 Yangilanishlar ishlashi uchun uz-UZ.yml faylida biror o'zgarish qilish kerak
+Ushbu fayl ichidagi notification qismi yangilanishlarga javobgar qismdir
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
