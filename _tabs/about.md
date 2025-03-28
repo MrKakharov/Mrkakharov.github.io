@@ -1,8 +1,31 @@
 ---
-# the default layout is 'page'
+# standart layout 'page'
 icon: fas fa-info-circle
 order: 4
 ---
+### Rezyume
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Mening `rezyumemni` quyidagi havola orqali yuklab olishingiz mumkin:  
+> [Rezyumeni yuklab olish (PDF)](https://drive.google.com/file/d/14vdPtU5-s3V1ekI77R4ehAtIWjwvhzHM/view?usp=sharing){: .prompt-tip target="_blank" }
 {: .prompt-tip }
+
+## Men haqimda
+
+Salom! Mening ismim Jakhongir Kakharov. Men web dasturchiman va ushbu blogda o'zimning tajribalarim, loyihalarim va foydali ma'lumotlar bilan bo'lishaman.
+
+### Ma'lumotlarim
+
+- **Ism:** Jakhongir Kakharov
+- **Kasb:** Web dasturchi
+- **Email:** devjk@tuta.io
+
+### Qiziqishlarim
+
+- 1C dasturlash
+- Web dasturlash
+- Ochiq manba loyihalar
+- Texnologiyalar va innovatsiyalar
+
+### Aloqa
+
+Agar sizda biron bir savol yoki taklif bo'lsa, iltimos, menga email orqali murojaat qiling: devjk@tuta.io.

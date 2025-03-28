@@ -1,18 +1,15 @@
-# Chirpy Starter
+# Chirpy Boshlagich
+
+[**Mening web sahifam**][webpage]
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+[**Chirpy**][chirpy] mavzusini [RubyGems.org][gem] orqali o'rnatishda, Jekyll faqat `_data`, `_layouts`, `_includes`, `_sass` va `assets` papkalardagi fayllarni, shuningdek, mavzuning gemidagi `_config.yml` faylining kichik qismini o'qiy oladi. Agar siz ushbu mavzuni gem sifatida o'rnatgan bo'lsangiz, `bundle info --path jekyll-theme-chirpy` buyrug'idan foydalanib, ushbu fayllarni topishingiz mumkin.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Jekyll jamoasi bu foydalanuvchiga tanlov imkoniyatini berish uchun ekanligini ta'kidlaydi, ammo bu foydalanuvchilarning boy xususiyatlarga ega mavzularni ishlatishda qiyinchiliklarga duch kelishiga olib keladi.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+**** ning barcha xususiyatlaridan to'liq foydalanish uchun, mavzuning gemidan boshqa muhim fayllarni Jekyll saytiga nusxalashingiz kerak. Quyida maqsadlar ro'yxati keltirilgan:
 
 ```shell
 .
@@ -20,24 +17,24 @@ Jekyll site. The following is a list of targets:
 ├── _plugins
 ├── _tabs
 └── index.html
-```
+````
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Vaqtingizni tejash va nusxalash paytida ba'zi fayllarni yo'qotib qo'yishingiz mumkinligini hisobga olib, biz **Chirpy** mavzusining so'nggi versiyasidagi fayllar/sozlamalarni va [CD][CD] ish jarayonini bu yerga chiqaramiz, shunda siz bir necha daqiqada yozishni boshlashingiz mumkin.
 
-## Usage
+## Foydalanish
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+[Chirpy mavzusining hujjatlarini](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) ko'rib chiqing.
 
-## Contributing
+## Hissa qo'shish
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+Ushbu repozitoriya mavzu repozitoriyasidan yangi versiyalar bilan avtomatik ravishda yangilanadi. Agar sizda biron bir muammo yuzaga kelsa yoki uning yaxshilanishiga hissa qo'shmoqchi bo'lsangiz, fikr-mulohaza bildirish uchun [mavzu repozitoriyasiga][chirpy] tashrif buyuring.
 
-## License
+## Litsenziya
 
-This work is published under [MIT][mit] License.
+Ushbu ish [MIT][mit] litsenziyasi ostida nashr etilgan.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[webpage]: https://mrkakharov.github.io/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
