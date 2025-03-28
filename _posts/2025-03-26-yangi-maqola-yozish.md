@@ -12,11 +12,11 @@ Ushbu qo'llanma sizga _Chirpy_ shablonida qanday qilib maqola yozishni ko'rsatad
 
 ## Nomlash va Yo'l
 
-`YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} nomli yangi fayl yarating va uni root katalogidagi `_posts`{: .filepath} ichiga joylashtiring. Iltimos, `EXTENSION`{: .filepath} `md`{: .filepath} va `markdown`{: .filepath} dan biri bo'lishi kerakligini unutmang. Agar fayllarni yaratish vaqtini tejashni xohlasangiz, bu ishni bajarish uchun [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose){: target="_blank" }  plaginidan foydalanishni ko'rib chiqing.
+`YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} nomli yangi fayl yarating va uni root katalogidagi `_posts`{: .filepath} ichiga joylashtiring. Iltimos, `EXTENSION`{: .filepath} `md`{: .filepath} va `markdown`{: .filepath} dan biri bo'lishi kerakligini unutmang. Agar fayllarni yaratish vaqtini tejashni xohlasangiz, bu ishni bajarish uchun [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) plaginidan foydalanishni ko'rib chiqing.
 
 ## Front Matter
 
-Asosan, postning yuqori qismida quyidagi [Front Matter](https://jekyllrb.com/docs/front-matter/){: target="_blank" }  ni to'ldirishingiz kerak:
+Asosan, postning yuqori qismida quyidagi [Front Matter](https://jekyllrb.com/docs/front-matter/) ni to'ldirishingiz kerak:
 
 ```yaml
 ---
@@ -71,7 +71,7 @@ authors: [<author1_id>, <author2_id>]   # bir nechta yozuvlar uchun
 
 Shuni aytib o'tish kerakki, `author` kaliti bir nechta yozuvlarni ham aniqlay oladi.
 
-> Muallif ma'lumotlarini `_data/authors.yml`{: .filepath } faylidan o'qishning foydasi shundaki, sahifada `twitter:creator` meta tegi bo'ladi, bu esa [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#card-and-content-attribution){: target="_blank" }  ni boyitadi va SEO uchun foydalidir.
+> Muallif ma'lumotlarini `_data/authors.yml`{: .filepath } faylidan o'qishning foydasi shundaki, sahifada `twitter:creator` meta tegi bo'ladi, bu esa [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#card-and-content-attribution) ni boyitadi va SEO uchun foydalidir.
 {: .prompt-info }
 
 ### Post Tavsifi
@@ -88,7 +88,7 @@ Bundan tashqari, `description` matni post sahifasida post sarlavhasi ostida ham 
 
 ## Mazmuni Jadvali
 
-Sukut bo'yicha, postning o'ng panelida **M**azmuni **J**advali (TOC) ko'rsatiladi. Agar uni global miqyosda o'chirmoqchi bo'lsangiz, `_config.yml`{: .filepath} ga o'ting va `toc` o'zgaruvchisini `false` ga o'rnating. Agar TOC ni ma'lum bir post uchun o'chirmoqchi bo'lsangiz, postning [Front Matter](https://jekyllrb.com/docs/front-matter/){: target="_blank" }  ga quyidagini qo'shing:
+Sukut bo'yicha, postning o'ng panelida **M**azmuni **J**advali (TOC) ko'rsatiladi. Agar uni global miqyosda o'chirmoqchi bo'lsangiz, `_config.yml`{: .filepath} ga o'ting va `toc` o'zgaruvchisini `false` ga o'rnating. Agar TOC ni ma'lum bir post uchun o'chirmoqchi bo'lsangiz, postning [Front Matter](https://jekyllrb.com/docs/front-matter/) ga quyidagini qo'shing:
 
 ```yaml
 ---
@@ -244,13 +244,11 @@ Oldindan ko'rish rasmlari uchun:
 ```yaml
 ---
 image:
-  lqip: /path/to/lqip-file # yoki base64 URI
+  lqip: /path/to/lqip-file # yoki base64 URI \"[Text and Typography](../text-and-typography/)\"
 ---
 ```
 
-> You can observe LQIP in the preview image of post \"[Text and Typography](../2025-03-26-mant-va-tipografiya/)\".
-
-> Siz LQIP ni \"[Matn va Tipografiya](2025-03-26-mant-va-tipografiya.md/)\" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
+Siz LQIP ni "[Matn va Tipografiya](./mant-va-tipografiya/)" postining oldindan ko'rish rasmida ko'rishingiz mumkin.
 
 Oddiy rasmlar uchun:
 
@@ -275,9 +273,9 @@ Quyidagi jadvalda berilgan video URL da kerakli ikkita parametrni qanday olish m
 
 | Video URL                                                                                          | Platforma   | ID             |
 | -------------------------------------------------------------------------------------------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg){: target="_blank" }  | `youtube`  | `H-B46URT4mg`  |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211){: target="_blank" }          | `twitch`   | `1634779211`   |
-| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf){: target="_blank" }  | `bilibili` | `BV1Q44y1B7Wf` |
+| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube`  | `H-B46URT4mg`  |
+| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`   | `1634779211`   |
+| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
 
 #### Video Fayllar
 
@@ -497,7 +495,7 @@ Can be referenced as \eqref{eq:label_name}.
 
 ## Mermaid
 
-[**Mermaid**](https://github.com/mermaid-js/mermaid){: target="_blank" }  ajoyib diagramma yaratish vositasi. Uni postingizda yoqish uchun YAML blokiga quyidagini qo'shing:
+[**Mermaid**](https://github.com/mermaid-js/mermaid) ajoyib diagramma yaratish vositasi. Uni postingizda yoqish uchun YAML blokiga quyidagini qo'shing:
 
 ```yaml
 ---
@@ -509,4 +507,4 @@ Keyin uni boshqa markdown tillari kabi ishlatishingiz mumkin: grafik kodini ````
 
 ## Ko'proq Bilish
 
-Jekyll postlari haqida ko'proq ma'lumot olish uchun [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/){: target="_blank" }  ni ko'rib chiqing.
+Jekyll postlari haqida ko'proq ma'lumot olish uchun [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/) ni ko'rib chiqing.

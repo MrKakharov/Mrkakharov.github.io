@@ -7,11 +7,11 @@ tags: [Chirpy]
 pin: true
 ---
 
-[**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/){: target="_blank"} ning [favicons](https://www.favicon-generator.org/about/){: target="_blank"} `assets/img/favicons/`{: .filepath} katalogida joylashgan. Siz ularni o'zingizning favikonlaringiz bilan almashtirishni xohlashingiz mumkin. Quyidagi bo'limlar sizga standart favikonlarni yaratish va almashtirish bo'yicha ko'rsatmalar beradi.
+[**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) ning [favicons](https://www.favicon-generator.org/about/) `assets/img/favicons/`{: .filepath} katalogida joylashgan. Siz ularni o'zingizning favikonlaringiz bilan almashtirishni xohlashingiz mumkin. Quyidagi bo'limlar sizga standart favikonlarni yaratish va almashtirish bo'yicha ko'rsatmalar beradi.
 
 ## Favicon yaratish
 
-512x512 yoki undan katta o'lchamdagi kvadrat rasmni (PNG, JPG yoki SVG) tayyorlang va keyin onlayn vositaga [**Real Favicon Generator**](https://realfavicongenerator.net/){: target="_blank"} o'ting va <kbd>Select your Favicon image</kbd> tugmasini bosib, rasm faylingizni yuklang.
+512x512 yoki undan katta o'lchamdagi kvadrat rasmni (PNG, JPG yoki SVG) tayyorlang va keyin onlayn vositaga [**Real Favicon Generator**](https://realfavicongenerator.net/) o'ting va <kbd>Select your Favicon image</kbd> tugmasini bosib, rasm faylingizni yuklang.
 
 Keyingi bosqichda, veb-sahifa barcha foydalanish stsenariylarini ko'rsatadi. Siz standart variantlarni saqlashingiz mumkin, sahifaning pastki qismiga o'ting va <kbd>Generate your Favicons and HTML code</kbd> tugmasini bosib, favikonni yarating.
 

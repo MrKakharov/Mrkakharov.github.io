@@ -1,0 +1,640 @@
+clear
+ls
+dir
+clear
+sudo apt update
+sudo apt install tree
+clear
+tree ./
+clear
+dir
+cd MrKakharov.github.io/
+clear
+tree ./
+tree ./ >> tree.txt
+grep grep -r "qidirilayotgan_so'z" /yo‘l
+grep -r "home" /yo‘l
+pwd
+grep -r "chirpy"
+clear
+grep -r "A text-focused Jekyll theme"
+grep -r "A text-focused Jekyll theme" *
+grep -r "Jekyll theme" *
+grep -r "A text" *
+bundle exec jekyll serve
+sudo apt install ruby-bundler
+bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
+sudo bundle install
+sudo chown -R dev:dev /var/lib/gems/
+bundle install
+git status
+git branch -m main main
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+git remote set-head origin main
+git push origin --set-upstream main
+
+ps -o ppid= -p 59
+kill -9 11
+ps aux | grep jekyll
+ps -o ppid= -p 59
+ps -o ppid= -p 283
+kill -9 269
+kill -9 1
+ps aux | grep jekyll
+wsl --shutdown
+ps aux | grep jekyll
+bundle exec jekyll serve
+ps aux | grep jekyll
+bundle exec jekyll serve
+git submodule deinit -f -- assets/lib
+git rm -rf assets/lib
+git submodule add https://github.com/cotes2020/chirpy-static-assets.git assets/lib
+rm -rf .git/modules/assets/lib
+git rm -rf assets/lib
+git submodule deinit -f -- assets/lib
+git rm -rf .git/modules/assets/lib
+git submodule status
+git submodule add https://github.com/cotes2020/chirpy-static-assets.git assets/lib
+git submodule update --init --recursive
+git commit -am "Re-add assets/lib submodule"
+git push origin main  # yoki `gh-pages`, agar shuni ishlatayotgan bo‘lsangiz
+bundle exec jekyll serve --trace
+ping 127.0.0.1
+curl -I http://127.0.0.1:4000
+ps aux | grep jekyll
+bundle exec jekyll serve --host=0.0.0.0 --port=4000 --trace
+curl -I http://127.0.0.1:4000
+curl -I http://127.0.0.1:4000
+ip addr | grep eth0
+http://192.168.x.x:4000/
+bundle exec jekyll servу
+bundle exec jekyll serve
+clear
+gem install bundler
+sudo gem install bundler
+bundler -v
+npm install
+npm run build
+node -v
+npm -v
+sudo apt install nodejs npm
+npm install
+npm run build
+bundle exec jekyll s
+rm -rf _site .jekyll-metadata
+bundle exec jekyll clean
+bundle install
+bundle exec jekyll s
+ps aux | grep jekyll
+kill -9 38
+ps aux | grep jekyll
+bundle exec jekyll s
+clear
+bundle exec jekyll clean
+bundle install
+bundle exec jekyll s
+clear
+bundle exec jekyll s --incremental
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+pwd
+cd ../../
+pwd
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git status
+clear
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+Changes not staged for commit:
+no changes added to commit (use "git add" and/or "git commit -a")
+$clear
+clear
+git status
+clear
+git status
+clear
+git add .
+git commit -m "Update Chirpy theme modifications"
+git push origin main
+git config --global user.name "MrKakharov" 
+git config --global user.email "jaxongirkaxarovwork@gmail.com" 
+git config --global --list
+git add .
+git commit -m "Update Chirpy theme modifications"
+git push origin main
+git commit --allow-empty -m "Trigger GitHub Pages rebuild"
+git push origin main
+clear
+tree ./
+tree ./ >> tree.txt
+bundle exec jekyll serve --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+pwd
+clear
+git status
+git add .
+git commit -m "Remove _site from version control and update .gitignore"
+git push origin main
+git branch
+# Joriy repozitoriyani zaxiralash
+mv c:\Users\Admin\Documents\MrKakharov.github.io c:\Users\Admin\Documents\MrKakharov.github.io_backup
+# Repozitoriyani qayta klonlash
+cd c:\Users\Admin\Documents\MrKakharov.github.io
+git add .
+git commit -m "Remove _site from version control and update .gitignore"
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add _tabs/about.md
+git commit -m "Update about page with additional information"
+git push origin main
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+rm -rf _site .jekyll-metadata
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle install
+rm -rf _site
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git add .
+git commit -m "Update localization for uz-UZ"
+git push origin main
+git add .github/workflows/deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+clear
+clear
+pwd
+clear
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git add _config.yml assets/lib
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+bundle exec htmlproofer ./_site
+tree assets/
+bundle install
+bundle exec jekyll s --incremental --limit_posts 10
+rm -rf _site/
+git rm -rf .git/modules/assets/lib
+clear
+
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+rm -rf _site
+bundle exec jekyll clean
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+find . -type f | xargs file
+find . -type f -exec dos2unix {} +
+find . -type f | xargs file
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+pwd
+dir
+cd _tabs/
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+which dos2unix
+sudo apt update
+sudo apt install dos2unix
+which dos2unix
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+cd ../
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+
+
+npm run build
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+bundle install
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+pwd
+find . -type f -exec file {} + | grep text | cut -d: -f1
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-28-attention-lf-to-crlf.md
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-26-faviconni-sozlash.md 
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-28-attention-lf-to-crlf.md
+clear
+bundle exec jekyll serve
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+nano ~/.bash_history
+nano ~/.bash_history >> history.txt
+dir
+ls
+clea
+clear
+pwd
+ls
+ls -la
+open .bash_history 
+cat ~/.bash_history > history.txt
+ls
+cat ~/.bash_history
+cat ~/.bash_history > history.txt
+git commit -m "Update localization for uz-UZ"
+clear
+git rm --cached -r .
+git reset --hard
+git add .
+git commit -m "new files for favicon"
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+git rm -rf .git/modules/assets/lib
+git rm --cached -r .
+git reset --hard
+git add .
+git commit -m "Fix line endings to LF"
+clear
+cd tools/
+clear
+bash run.sh
+clear
+bash run.sh
+clear
+cd ../
+bash tools/run.sh 
+clear
+grep -r "yangi" *
+clear
+bash tools/run.sh 
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+clear
+bash tools/run.sh 
+clear
+ls
+dir
+clear
+sudo apt update
+sudo apt install tree
+clear
+tree ./
+clear
+dir
+cd MrKakharov.github.io/
+clear
+tree ./
+tree ./ >> tree.txt
+grep grep -r "qidirilayotgan_so'z" /yo‘l
+grep -r "home" /yo‘l
+pwd
+grep -r "chirpy"
+clear
+grep -r "A text-focused Jekyll theme"
+grep -r "A text-focused Jekyll theme" *
+grep -r "Jekyll theme" *
+grep -r "A text" *
+bundle exec jekyll serve
+sudo apt install ruby-bundler
+bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
+sudo bundle install
+sudo chown -R dev:dev /var/lib/gems/
+bundle install
+git status
+git branch -m main main
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+git remote set-head origin main
+git push origin --set-upstream main
+
+ps -o ppid= -p 59
+kill -9 11
+ps aux | grep jekyll
+ps -o ppid= -p 59
+ps -o ppid= -p 283
+kill -9 269
+kill -9 1
+ps aux | grep jekyll
+wsl --shutdown
+ps aux | grep jekyll
+bundle exec jekyll serve
+ps aux | grep jekyll
+bundle exec jekyll serve
+git submodule deinit -f -- assets/lib
+git rm -rf assets/lib
+git submodule add https://github.com/cotes2020/chirpy-static-assets.git assets/lib
+rm -rf .git/modules/assets/lib
+git rm -rf assets/lib
+git submodule deinit -f -- assets/lib
+git rm -rf .git/modules/assets/lib
+git submodule status
+git submodule add https://github.com/cotes2020/chirpy-static-assets.git assets/lib
+git submodule update --init --recursive
+git commit -am "Re-add assets/lib submodule"
+git push origin main  # yoki `gh-pages`, agar shuni ishlatayotgan bo‘lsangiz
+bundle exec jekyll serve --trace
+ping 127.0.0.1
+curl -I http://127.0.0.1:4000
+ps aux | grep jekyll
+bundle exec jekyll serve --host=0.0.0.0 --port=4000 --trace
+curl -I http://127.0.0.1:4000
+curl -I http://127.0.0.1:4000
+ip addr | grep eth0
+http://192.168.x.x:4000/
+bundle exec jekyll servу
+bundle exec jekyll serve
+clear
+gem install bundler
+sudo gem install bundler
+bundler -v
+npm install
+npm run build
+node -v
+npm -v
+sudo apt install nodejs npm
+npm install
+npm run build
+bundle exec jekyll s
+rm -rf _site .jekyll-metadata
+bundle exec jekyll clean
+bundle install
+bundle exec jekyll s
+ps aux | grep jekyll
+kill -9 38
+ps aux | grep jekyll
+bundle exec jekyll s
+clear
+bundle exec jekyll clean
+bundle install
+bundle exec jekyll s
+clear
+bundle exec jekyll s --incremental
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+pwd
+cd ../../
+pwd
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git status
+clear
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+Changes not staged for commit:
+no changes added to commit (use "git add" and/or "git commit -a")
+$clear
+clear
+git status
+clear
+git status
+clear
+git add .
+git commit -m "Update Chirpy theme modifications"
+git push origin main
+git config --global user.name "MrKakharov" 
+git config --global user.email "jaxongirkaxarovwork@gmail.com" 
+git config --global --list
+git add .
+git commit -m "Update Chirpy theme modifications"
+git push origin main
+git commit --allow-empty -m "Trigger GitHub Pages rebuild"
+git push origin main
+clear
+tree ./
+tree ./ >> tree.txt
+bundle exec jekyll serve --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+pwd
+clear
+git status
+git add .
+git commit -m "Remove _site from version control and update .gitignore"
+git push origin main
+git branch
+# Joriy repozitoriyani zaxiralash
+mv c:\Users\Admin\Documents\MrKakharov.github.io c:\Users\Admin\Documents\MrKakharov.github.io_backup
+# Repozitoriyani qayta klonlash
+cd c:\Users\Admin\Documents\MrKakharov.github.io
+git add .
+git commit -m "Remove _site from version control and update .gitignore"
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add _tabs/about.md
+git commit -m "Update about page with additional information"
+git push origin main
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+rm -rf _site .jekyll-metadata
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle install
+rm -rf _site
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+git add .
+git commit -m "Update localization for uz-UZ"
+git push origin main
+git add .github/workflows/deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+clear
+clear
+pwd
+clear
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+git add .github/workflows/pages-deploy.yml
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git add _config.yml assets/lib
+git commit -m "Add GitHub Actions workflow for GitHub Pages deployment"
+git push origin main
+bundle exec htmlproofer ./_site
+tree assets/
+bundle install
+bundle exec jekyll s --incremental --limit_posts 10
+rm -rf _site/
+git rm -rf .git/modules/assets/lib
+clear
+
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+rm -rf _site
+bundle exec jekyll clean
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+find . -type f | xargs file
+find . -type f -exec dos2unix {} +
+find . -type f | xargs file
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+pwd
+dir
+cd _tabs/
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+which dos2unix
+sudo apt update
+sudo apt install dos2unix
+which dos2unix
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+cd ../
+find . -type f -exec file {} +
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+find . -type f -exec file {} +
+
+
+npm run build
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+bundle install
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+pwd
+find . -type f -exec file {} + | grep text | cut -d: -f1
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-28-attention-lf-to-crlf.md
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-26-faviconni-sozlash.md 
+dos2unix /mnt/c/Users/Admin/Documents/GitHub/mrkakharov.github.io/_posts/articles/2025-03-28-attention-lf-to-crlf.md
+clear
+bundle exec jekyll serve
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+bundle exec jekyll clean
+bundle exec jekyll s --incremental --limit_posts 10
+clear
+nano ~/.bash_history
+nano ~/.bash_history >> history.txt
+dir
+ls
+clea
+clear
+pwd
+ls
+ls -la
+open .bash_history 
+cat ~/.bash_history > history.txt
+ls
+cat ~/.bash_history
+cat ~/.bash_history > history.txt
+git commit -m "Update localization for uz-UZ"
+clear
+git rm --cached -r .
+git reset --hard
+git add .
+git commit -m "new files for favicon"
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+git rm -rf .git/modules/assets/lib
+git rm --cached -r .
+git reset --hard
+git add .
+git commit -m "Fix line endings to LF"
+clear
+cd tools/
+clear
+bash run.sh
+clear
+bash run.sh
+clear
+cd ../
+bash tools/run.sh 
+clear
+grep -r "yangi" *
+clear
+bash tools/run.sh 
+clear
+find . -type f -exec file {} + | grep text | cut -d: -f1 | xargs dos2unix
+clear
+bash tools/run.sh 

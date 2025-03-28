@@ -139,7 +139,7 @@ fi;
 
 ## Matematika
 
-Matematika [**MathJax**](https://www.mathjax.org/){: target="_blank" } tomonidan quvvatlanadi:
+Matematika [**MathJax**](https://www.mathjax.org/) tomonidan quvvatlanadi:
 
 $$
 \begin{equation}

@@ -18,7 +18,7 @@ Sayt repozitoriyasini yaratishda, ehtiyojlaringizga qarab ikkita variant mavjud:
 
 Ushbu yondashuv yangilanishlarni soddalashtiradi, keraksiz fayllarni ajratadi va minimal sozlash bilan yozishga e'tibor qaratmoqchi bo'lgan foydalanuvchilar uchun juda mos keladi.
 
-1. GitHub'ga kiring va [**starter**](https://github.com/cotes2020/chirpy-starter){: target="_blank"} sahifasiga o'ting.
+1. GitHub'ga kiring va [**starter**](https://github.com/cotes2020/chirpy-starter) sahifasiga o'ting.
 2. <kbd>Use this template</kbd> tugmasini bosing va keyin <kbd>Create a new repository</kbd> ni tanlang.
 3. Yangi repozitoriyani `<username>.github.io` deb nomlang, bu yerda `username` sizning kichik harflardagi GitHub foydalanuvchi nomingiz bilan almashtiriladi.
 
@@ -27,7 +27,7 @@ Ushbu yondashuv yangilanishlarni soddalashtiradi, keraksiz fayllarni ajratadi va
 Ushbu yondashuv xususiyatlarni yoki UI dizaynini o'zgartirish uchun qulay, lekin yangilanishlar paytida qiyinchiliklar tug'diradi. Shuning uchun, agar siz Jekyll bilan tanish bo'lmasangiz va ushbu mavzuni jiddiy o'zgartirishni rejalashtirmasangiz, bu usulni sinab ko'rmang.
 
 1. GitHub'ga kiring.
-2. [Mavzu repozitoriyasini fork qiling](https://github.com/cotes2020/jekyll-theme-chirpy/fork){: target="_blank"}.
+2. [Mavzu repozitoriyasini fork qiling](https://github.com/cotes2020/jekyll-theme-chirpy/fork).
 3. Yangi repozitoriyani `<username>.github.io` deb nomlang, bu yerda `username` sizning kichik harflardagi GitHub foydalanuvchi nomingiz bilan almashtiriladi.
 
 ## Muhitni Sozlash
@@ -41,12 +41,12 @@ Dev Containers Docker yordamida izolyatsiyalangan muhitni taqdim etadi, bu sizni
 **Qadamlar**:
 
 1. Docker'ni o'rnating:
-    - Windows/macOS'da [Docker Desktop](https://www.docker.com/products/docker-desktop/){: target="_blank"} ni o'rnating.
-    - Linux'da [Docker Engine](https://docs.docker.com/engine/install/){: target="_blank"} ni o'rnating.
-2. [VS Code](https://code.visualstudio.com/){: target="_blank"} va [Dev Containers kengaytmasi](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers){: target="_blank"} ni o'rnating.
+    - Windows/macOS'da [Docker Desktop](https://www.docker.com/products/docker-desktop/) ni o'rnating.
+    - Linux'da [Docker Engine](https://docs.docker.com/engine/install/) ni o'rnating.
+2. [VS Code](https://code.visualstudio.com/) va [Dev Containers kengaytmasi](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) ni o'rnating.
 3. Repozitoriyangizni klonlang:
-    - Docker Desktop uchun: VS Code'ni ishga tushiring va [repozitoriyangizni konteyner hajmida klonlang](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-a-git-repository-or-github-pr-in-an-isolated-container-volume){: target="_blank"}.
-    - Docker Engine uchun: Repozitoriyangizni lokal ravishda klonlang, keyin VS Code orqali [konteynerda oching](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-an-existing-folder-in-a-container){: target="_blank"}.
+    - Docker Desktop uchun: VS Code'ni ishga tushiring va [repozitoriyangizni konteyner hajmida klonlang](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-a-git-repository-or-github-pr-in-an-isolated-container-volume).
+    - Docker Engine uchun: Repozitoriyangizni lokal ravishda klonlang, keyin VS Code orqali [konteynerda oching](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-an-existing-folder-in-a-container).
 4. Dev Containers sozlamalari tugashini kuting.
 
 ### Mahalliy Sozlash (Unix-like OS uchun Tavsiya etiladi)
@@ -55,9 +55,9 @@ Unix-like tizimlar uchun, siz muhitni mahalliy ravishda optimal ishlash uchun so
 
 **Qadamlar**:
 
-1. [Jekyll o'rnatish qo'llanmasi](https://jekyllrb.com/docs/installation/){: target="_blank"} ga amal qilib Jekyll'ni o'rnating va [Git](https://git-scm.com/){: target="_blank"} o'rnatilganligiga ishonch hosil qiling.
+1. [Jekyll o'rnatish qo'llanmasi](https://jekyllrb.com/docs/installation/) ga amal qilib Jekyll'ni o'rnating va [Git](https://git-scm.com/) o'rnatilganligiga ishonch hosil qiling.
 2. Repozitoriyangizni lokal mashinangizga klonlang.
-3. Agar mavzuni fork qilgan bo'lsangiz, [Node.js](https://nodejs.org/){: target="_blank"} ni o'rnating va repozitoriyaning root katalogida `bash tools/init.sh` ni ishga tushiring.
+3. Agar mavzuni fork qilgan bo'lsangiz, [Node.js](https://nodejs.org/) ni o'rnating va repozitoriyaning root katalogida `bash tools/init.sh` ni ishga tushiring.
 4. Repozitoriyaning root katalogida `bundle` buyrug'ini ishga tushiring va bog'liqliklarni o'rnating.
 
 ## Foydalanish
@@ -162,11 +162,11 @@ Mavzuni moslashtirish uchun, mavzuning `assets/css/jekyll-theme-chirpy.scss`{: .
 
 Statik aktivlar konfiguratsiyasi `5.1.0` versiyasida joriy etilgan. Statik aktivlarning CDN `_data/origin/cors.yml`{: .filepath} da aniqlangan. Siz veb-saytingiz joylashtirilgan hududdagi tarmoq sharoitlariga qarab ularning ba'zilarini almashtirishingiz mumkin.
 
-Agar statik aktivlarni o'zingiz joylashtirishni afzal ko'rsangiz, [_chirpy-static-assets_](https://github.com/cotes2020/chirpy-static-assets#readme){: target="_blank"} repozitoriyasiga murojaat qiling.
+Agar statik aktivlarni o'zingiz joylashtirishni afzal ko'rsangiz, [_chirpy-static-assets_](https://github.com/cotes2020/chirpy-static-assets#readme) repozitoriyasiga murojaat qiling.
 
 ## Joylashtirish
 
-Joylashtirishdan oldin, `_config.yml`{: .filepath} faylini tekshiring va `url` to'g'ri sozlanganligiga ishonch hosil qiling. Agar siz [**loyiha sayti**](https://help.github.com/en/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites){: target="_blank"} ni afzal ko'rsangiz va maxsus domen ishlatmasangiz yoki GitHub Pages'dan boshqa veb-serverda veb-saytingizga baza URL bilan tashrif buyurmoqchi bo'lsangiz, `baseurl` ni loyihangiz nomiga, masalan, `/project-name` ga o'rnatishni unutmang.
+Joylashtirishdan oldin, `_config.yml`{: .filepath} faylini tekshiring va `url` to'g'ri sozlanganligiga ishonch hosil qiling. Agar siz [**loyiha sayti**](https://help.github.com/en/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites) ni afzal ko'rsangiz va maxsus domen ishlatmasangiz yoki GitHub Pages'dan boshqa veb-serverda veb-saytingizga baza URL bilan tashrif buyurmoqchi bo'lsangiz, `baseurl` ni loyihangiz nomiga, masalan, `/project-name` ga o'rnatishni unutmang.
 
 Endi Jekyll saytingizni joylashtirish uchun quyidagi usullardan _BIRINI_ tanlashingiz mumkin.
 
@@ -183,7 +183,7 @@ Quyidagilarni tayyorlang:
 
 Keyin _Pages_ xizmatini sozlang:
 
-1. GitHub'dagi repozitoriyangizga o'ting. _Settings_ yorlig'ini tanlang, so'ng chap navigatsiya panelida _Pages_ ni bosing. **Source** bo'limida ( _Build and deployment_ ostida), ochiladigan menyudan [**GitHub Actions**](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow){: target="_blank"} ni tanlang.  
+1. GitHub'dagi repozitoriyangizga o'ting. _Settings_ yorlig'ini tanlang, so'ng chap navigatsiya panelida _Pages_ ni bosing. **Source** bo'limida ( _Build and deployment_ ostida), ochiladigan menyudan [**GitHub Actions**](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) ni tanlang.  
     ![Build source](pages-source-light.png){: .light .border .normal w='375' h='140' }
     ![Build source](pages-source-dark.png){: .dark .normal w='375' h='140' }
 
