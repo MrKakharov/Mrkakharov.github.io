@@ -130,16 +130,6 @@ media_subpath: "/assets/posts/courses/2025-03-26-tugallangan-c-piscine/"
       {% include embed/pdf.html url="https://raw.githubusercontent.com/MrKakharov/YAKUNLANGAN_BASSEYN_PISCINE_C/master/shell01/shell01.pdf" %}
 </details>
 
-- [Exercise 00 : Exam](..//)
-- [Exercise 01 : print groups](..//)
-- [Exercise 02 : find sh](..//)
-- [Exercise 03 : count, files](..//)
-- [Exercise 04 : MAC](..//)
-- [Exercise 05 : Can you create it ?](..//)
-- [Exercise 06 : Skip](..//)
-- [Exercise 07 : r_dwssap](..//)
-- [Exercise 08 : add chelou](..//)
-
 C - I Hello World
 - ex00 = ft_putchar.c <br>
 - ex01 = ft_print_alphabet.c <br>
