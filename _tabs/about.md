@@ -6,8 +6,8 @@ order: 4
 ### Rezyume
 
 > Mening `rezyumemni` quyidagi havola orqali yuklab olishingiz mumkin:  
-> [Rezyumeni yuklab olish (PDF)](https://drive.google.com/file/d/14vdPtU5-s3V1ekI77R4ehAtIWjwvhzHM/view?usp=sharing){: .prompt-tip target="_blank" }
-{: .prompt-tip }
+> [Rezyumeni yuklab olish (PDF)](https://drive.google.com/file/d/14vdPtU5-s3V1ekI77R4ehAtIWjwvhzHM/view?usp=sharing){: target="_blank" }
+{: .prompt-tip .shadow }
 
 ## Men haqimda
 

@@ -23,7 +23,7 @@ description: >- # Sayt haqida umumiy ta’rif
 
 # Saytingiz uchun protokol va xost nomini to'ldiring.
 # Masalan, 'https://username.github.io', e'tibor bering, u '/' bilan tugamaydi.
-url: "https://mrkakharov.github.io" # GitHub Pages uchun sayt manzili
+url: "" # "https://mrkakharov.github.io"  GitHub Pages uchun sayt manzili
 
 github:
   username: MrKakharov # Foydalanuvchi nomiga o'zgartirish

@@ -1,5 +1,5 @@
 ---
-title: Matn va Tipografiya
+title: Matn va tipografiya
 description: Matn, tipografiya, matematik tenglamalar, diagrammalar, oqim jadvallari, rasmlar, videolar va boshqalar misollari.
 author: cotes
 date: 2025-03-26 02:03:00 +0500

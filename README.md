@@ -4,8 +4,8 @@
 
 Yangilanishlar ishlashi uchun Build and deployment ni almashtirish kerak!
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy){: target="_blank" }][gem]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue){: target="_blank" }][mit]
 
 [**Chirpy**][chirpy] mavzusini [RubyGems.org][gem] orqali o'rnatishda, Jekyll faqat `_data`, `_layouts`, `_includes`, `_sass` va `assets` papkalardagi fayllarni, shuningdek, mavzuning gemidagi `_config.yml` faylining kichik qismini o'qiy oladi. Agar siz ushbu mavzuni gem sifatida o'rnatgan bo'lsangiz, `bundle info --path jekyll-theme-chirpy` buyrug'idan foydalanib, ushbu fayllarni topishingiz mumkin.
 
@@ -25,7 +25,7 @@ Vaqtingizni tejash va nusxalash paytida ba'zi fayllarni yo'qotib qo'yishingiz mu
 
 ## Foydalanish
 
-[Chirpy mavzusining hujjatlarini](https://github.com/cotes2020/jekyll-theme-chirpy/wiki) ko'rib chiqing.
+[Chirpy mavzusining hujjatlarini][docs] ko'rib chiqing.
 
 ## Hissa qo'shish
 
@@ -40,3 +40,4 @@ Ushbu ish [MIT][mit] litsenziyasi ostida nashr etilgan.
 [webpage]: https://MrKakharov.github.io/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[docs]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
